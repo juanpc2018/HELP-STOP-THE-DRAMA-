@@ -46,8 +46,10 @@ Windows8,1 Pro does Not allow to Boot from USB3.0, "Windows-To-Go WTG" needs to 
 But Purchasing Enterprise Edition is Not easy.
 And only works in "approved" External USB3.0 HDD, Not all work like Linux or OSX.
 
-Windows10 OEM does Not allow to Downgrade to Windows8,1 OEM, 
+Windows10 OEM license does Not allow to Downgrade to Windows8,1 OEM, 
 Requires to purchase Windows8,1 license.
+but New Win8.1 licenses are No longer for sale from Microsoft,
+Needs to Buy Window10 Pro license to allow Downgrade to Windows8.1 Pro.
 
 OSX HighSierra 10.13.4 added support for eGPU with Thunderbolt3 Macs, 
 Apple sells the only bi-directional TB3 to TB2 adapter.
