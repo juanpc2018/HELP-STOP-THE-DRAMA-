@@ -100,7 +100,8 @@ Because there is No SCSI PCIe or FireWire Passthrough.
 
 Solution use older Machine, or buy a New scanner and buy a New machine.
 
-New OSX designed for intel machines, does Not work in old intel machines. 
+New OSX designed for intel machines, does Not work in old intel machines.
+New Apple intel machines, does Not work in old OSX designed for intel machines. 
 Suddenly intel x86_64 is Not compatible with intel x86_64
 
 Digidesign Digi001 PCIe card
