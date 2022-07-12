@@ -18,7 +18,7 @@ etc...
 
 You want to escape all that...
 Just have fun with a machine, 
- With as little drama as possible. LOL
+and as little drama as possible. LOL
 
 
 Here is a list of what I call Drama:
