@@ -105,14 +105,18 @@ but some settings fail in x58 boards, same windows same drivers.
 like 2500x1440
 
 Asus Rampage 3 Extreme board has PCI 32-Bit,
-but Bios does Not have ACPI v1.3, only has "Advanced" = 1.1 
-Lynx AES16 pci card does Not install in Windows8.1, but works Ok in W7x64
-Win8.1 requires proper Bios tables.
+but Bios does Not have MPS Table version v1.3, only has "Advanced" = 1.1 Not compatible with Windows8,1
+Lynx AES16 pci card does Not install in Windows8.1 with MPS 1.1, but works Ok in W7x64
+Win8.1 requires proper Bios MPS 1.3 tables.
+same board using OSX SnowLeopard 10.6.6, Lynx AES16 pci works well.
+Only msi and ASRock boards have proper 1.3 MPS tables for intel, Gigabyte unknown.
+Tyan S8232 AMD Opteron 63OO server board, pci Lynx AES16 installs but buffer size does Not work well.
 
-Newer ATX Boards like Z270 & Z370 have very weak socket pins made by Foxxconn, very brittle metal designed to fail,
-not like older X58 1366 socket pins, designed to last. 
+Newer ATX Boards Z270 & Z370 have very weak socket pins made by Foxxconn, 
+different brands msi pc mate & ASRock Z370 Pro4, both with PCI but very brittle cpu metal pins designed to fail,
+Not like older X58 1366 socket pins, designed to last.
 
-Matrox developer support refuses to give Discontinued MXO2 SDK & developer documentation.
+Matrox developer support refuses to give Discontinued MXO2 SDK.
 
 STOP THE DRAMA.!
 
