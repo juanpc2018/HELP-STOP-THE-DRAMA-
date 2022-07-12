@@ -128,6 +128,10 @@ Not like older X58 1366 socket pins, designed to last.
 
 Matrox developer support refuses to give Discontinued MXO2 SDK.
 
+VMware Fusion Player 12 needs OSX +11
+
+installing Windows10 in MacPro5,1 damages the Mec UEFI.
+
 STOP THE DRAMA.!
 
 Life is too short for all that.
