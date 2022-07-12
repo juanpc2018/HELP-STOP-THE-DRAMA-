@@ -24,7 +24,7 @@ and as little drama as possible. LOL
 
 Here is a list of what I call Drama:
 
-Acer intel laptops with Inside H2O Bios UEFI has a secret menu to stop people installing Linux.
+Acer intel laptops with Insyde H2O Bios UEFI has a secret menu to stop people installing Linux.
 
 Apple has a T2 chip to stop people installing Linux, and other things.
 Apple MacMini 2014 has soldered RAM,
