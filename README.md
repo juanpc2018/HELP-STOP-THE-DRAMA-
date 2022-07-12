@@ -109,6 +109,8 @@ but Bios does Not have ACPI v1.3, only has "Advanced" = 1.1
 Lynx AES16 pci card does Not install in Windows8.1, but works Ok in W7x64
 Win8.1 requires proper Bios tables.
 
+Newer ATX Boards like Z270 & Z370 have very weak socket pins made by Foxxconn, very brittle metal designed to fail,
+not like older X58 1366 socket pins, designed to last. 
 
 STOP THE DRAMA.!
 
