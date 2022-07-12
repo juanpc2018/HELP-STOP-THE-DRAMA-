@@ -104,7 +104,7 @@ New OSX designed for intel machines, does Not work in old Apple intel machines.
 
 New Apple intel machines, does Not work in old OSX designed for intel machines. 
 
-Suddenly intel x86_64 is Not compatible with intel x86_64
+Suddenly intel x86_64 is Not compatible with intel.
 
 Digidesign Digi001 PCIe card
 works ok in 975x boards, WinXP & ASIO driver 6.4
