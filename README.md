@@ -94,8 +94,20 @@ Because there is No SCSI PCIe or FireWire Passthrough.
 Solution use older Machine, or buy a New scanner and buy a New machine.
 
 New OSX designed for intel machines, does Not work in old intel machines. 
-Suddenly x86:64 is Not compatible with x86_64
+Suddenly intel x86_64 is Not compatible with intel x86_64
 
+Digidesign Digi001 PCIe card
+works ok in 975x boards, WinXP & ASIO driver 6.4
+but fails in x58 boards from 2010, just a few years later.
+
+AMD HD6950 works ok in 975x boards, WinXP 32-Bit,
+but some settings fail in x58 boards, same windows same drivers.
+like 2500x1440
+
+Asus Rampage 3 Extreme board has PCI 32-Bit,
+but Bios does Not have ACPI v1.3, only has "Advanced" = 1.1 
+Lynx AES16 pci card does Not install in Windows8.1, but works Ok in W7x64
+Win8.1 requires proper Bios tables.
 
 
 STOP THE DRAMA.!
