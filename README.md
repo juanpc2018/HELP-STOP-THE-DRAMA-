@@ -72,6 +72,7 @@ CPU Video HW decoded requires High CPU, 40% - 60% depends on the resolution of t
 MacPro5,1 2010 allows to install OSX SnowLeopard but same machine from 2012 does Not.
 OSX SnowLeopard was designed for intel, 
 The reason to stop New machines installing SL was that has Rosetta v1 PPC G4 emulator.
+Rosetta was Deleted in OSX Lion 10.7
 
 Apple purchased Shake! Video composing software,
 Compiled for PowerPC, and Abandoned when Apple moved to Intel.
