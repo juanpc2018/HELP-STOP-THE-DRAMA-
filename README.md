@@ -56,9 +56,9 @@ Needs to Buy Window10 Pro license to allow Downgrade to Windows8.1 Pro.
 OSX HighSierra 10.13.4 added support for eGPU with Thunderbolt3 Macs, 
 Apple sells the only bi-directional TB3 to TB2 adapter.
 BUT... Deleted OSX support for TB2 Macs.
- 
-IF you want eGPU with latest OSX Catalina 100% 64-Bit intel,
-you need to buy a Mac with TB3, like MacMini 2018, or similar.
+IF you want eGPU with OSX HighSierra 10.13.6
+you need to buy a Mac with TB3, like MacMini 2018, 
+but Mac mini 2018 does Not run OSX HighSierra 10.13.6
 
 AMD GPUs Removed support for Windows8,1 drivers since RX 500.
 But Windows8,1 was Not discontinued when that happened.
