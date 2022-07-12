@@ -61,6 +61,9 @@ you need to buy a Mac with TB3, like MacMini 2018, or similar.
 AMD GPUs Removed support for Windows8,1 drivers since RX 500.
 But Windows8,1 was Not discontinued when that happened.
 
+Windows10 Pro does Not work with 4-Physical CPU socket boards, Only 2 CPUs,
+Needs to buy Windows10 Pro for Workstations or Server but Not the Basic Server.
+
 NVIDIA removed CUDA 64-Bit driver support for GTX Titan 6GB PCIe card since drivers 388.
 Tested with CUDA-Z
 NVIDIA proprietary driver removed some support for Hardware Acceleration / Decoding in Linux for GT 740.
