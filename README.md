@@ -29,7 +29,7 @@ Apple has a T2 chip to stop people installing Linux, and other things.
 Apple MacMini 2014 has soldered RAM,
 Apple MacMini 2018 has removable RAM, but Soldered SSD.
 Apple M1 has soldered RAM and SSD.
-Apple M1 Studio & Max has removable NVMe, but are Not user changeable.
+Apple M1 Studio & Max has removable NVMe, but are Not user changeable and are Not compatible with other brands because NVMe controller is on the Board.
 
 Intel Optane 32GB NVMe needs 7th gen CPU, Board and Bios with Optane support,
 Because its a RAID Cache technology, needs a RAID Controller,
