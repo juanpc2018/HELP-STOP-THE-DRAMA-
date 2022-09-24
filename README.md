@@ -130,7 +130,7 @@ Matrox developer support refuses to give Discontinued MXO2 SDK.
 
 VMware Fusion Player 12.2 requires OSX BigSur +11, that Ram runs -30% slower on intel machines, because Hydrid Kernel.
 
-installing Windows10 in MacPro5,1 damages the Mec UEFI.
+installing Windows10 in MacPro5,1 2010/2012 damages the Mac UEFI.
 
 STOP THE DRAMA.!
 
