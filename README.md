@@ -30,7 +30,7 @@ Apple has a T2 chip to stop people installing Linux, and other things.
 
 Apple Not upgredable Hardware, like MacMini 2014 soldered RAM,
 Apple MacMini 2018 removable RAM, but Soldered SSD.
-Apple M1 soldered RAM and SSD.
+Apple M1 soldered RAM, CPU and SSD, or M.2 SSD without built in controller "incompatible".
 Apple M1 Studio & Max removable NVMe, but are Not user interchangeable and are Not compatible with other brands because NVMe controller is on the Board.
 
 Intel Optane 32GB NVMe needs 7th gen CPU, Board and Bios with Optane support,
